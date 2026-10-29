@@ -1,4 +1,5 @@
 <?php
+// Updated forgot password page for Hotel Management System git add admin_forgot_pwd1.php
 		$conn = new mysqli("localhost","root","", "iwp");
 		if($conn->connect_error)
 		{
