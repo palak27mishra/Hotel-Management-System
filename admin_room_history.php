@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+git add admin_room_status.php<!DOCTYPE html>
 <html>
 <head>
 	<title>Admin Room History</title>
